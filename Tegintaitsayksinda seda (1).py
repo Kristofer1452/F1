@@ -2,7 +2,7 @@ import random
 
 names = ['Heisenberg', 'Jaanus', 'Rannar', 'Rasmus', 'Sten']
 laps = 10
-filename = 'C:/Users/Kristofer.kook/PycharmProjectsürpject/Result.txt'
+filename = 'Result.txt'
 file_header = 'Ring;Nimi;Aeg;Sektor1;Sektor2;Sektor3;Viga\n'
 results = []
 minimum = 23
